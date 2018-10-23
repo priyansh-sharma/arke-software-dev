@@ -1,0 +1,1 @@
+https://b-604520a7.kinesisvideo.us-east-1.amazonaws.com/hls/v1/getHLSMasterPlaylist.m3u8?SessionToken=CiDFk_S5JiGg4hLazrhnF4owELGN0U8LnrRM90rp_wZEphIQRwUmQIZ_XAporBputyzwzRoZs0CUFLYFx5opJN9wnxQnpmU6j69fshE6ByIg4MkV9i7jPt11u8C5qYsppeA0n5iNaHUsXNnatJ8TANc~
